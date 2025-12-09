@@ -1,62 +1,71 @@
-# Order Management API
+# Ìªí Order Management API
 
-Uma API robusta de gerenciamento de pedidos constru√≠da com **C# .NET 9**, seguindo princ√≠pios de **Domain-Driven Design (DDD)** e **Clean Architecture**.
+> Uma API robusta e elegante de gerenciamento de pedidos constru√≠da com **C# .NET 9**, seguindo princ√≠pios de **Domain-Driven Design (DDD)** e **Clean Architecture**.
 
-## Ì∫Ä Come√ßando
+---
 
-### Instala√ß√£o
+## Ì∫Ä Come√ßando Rapidinho
 
-1. Clone o reposit√≥rio:
+### ‚ö° Instala√ß√£o em 3 Passos
+
+1Ô∏è‚É£ Clone
 git clone https://github.com/reenanjoordan/order-management-api.git
 cd order-management-api/OrderManagementAPI
 
-2. Execute:
-
+2Ô∏è‚É£ Compile
 dotnet build
+
+3Ô∏è‚É£ Execute
 cd OrderManagementAPI.API
 dotnet run
 
-API: `http://localhost:5254`
-Swagger: `http://localhost:5254/swagger`
+Ìºê **API:** http://localhost:5254
+Ì≥ö **Swagger:** http://localhost:5254/swagger
 
 ## Ì≥ö Endpoints
 
-### Produtos
-- `GET /api/products` - Lista produtos
-- `POST /api/products` - Cria produto
+### Ìø™ Produtos
+- `GET /api/products` - Ì≥¶ Lista produtos
+- `POST /api/products` - ‚ûï Cria produto
 
-### Pedidos
-- `GET /api/orders` - Lista pedidos
-- `POST /api/orders` - Cria pedido
-- `POST /api/orders/{id}/items` - Adiciona produto ao pedido
-- `PUT /api/orders/{id}` - Atualiza pedido
-- `DELETE /api/orders/{id}` - Deleta pedido
+### Ì≥ã Pedidos
+- `GET /api/orders` - Ì≥ã Lista pedidos
+- `POST /api/orders` - ‚ûï Cria pedido
+- `POST /api/orders/{id}/items` - ÌªçÔ∏è Adiciona produto
+- `PUT /api/orders/{id}` - ‚úèÔ∏è Atualiza
+- `DELETE /api/orders/{id}` - Ì∑ëÔ∏è Deleta
 
-## Ì∑™ Testes
+## Ì∑™ Testes (7/7 ‚úÖ)
 
-dotnet test
-
-**7/7 testes passando** ‚úÖ
 
 ## ÌøóÔ∏è Arquitetura
 
-- **Domain Layer** - Entidades e regras de neg√≥cio
-- **Application Layer** - Servi√ßos e DTOs
-- **Infrastructure Layer** - EF Core + InMemory
-- **API Layer** - Controllers + Swagger
+- ÌæØ **Domain Layer** - Entidades e regras
+- Ìæ® **Application Layer** - Servi√ßos
+- Ì≤æ **Infrastructure Layer** - EF Core
+- Ìºê **API Layer** - Controllers + Swagger
 
 ## Ì¥ß Tecnologias
 
-- .NET 9.0
-- Entity Framework Core
-- xUnit
-- Swagger/Swashbuckle
-- AutoMapper
+- Ìø¶ .NET 9.0
+- Ì≥ä Entity Framework Core
+- Ì∑™ xUnit
+- Ì≥ö Swagger
+- Ì∑∫Ô∏è AutoMapper
 
-## Ì±§ Autor
+## Ì≥ä Padr√µes
+
+‚úÖ Repository Pattern
+‚úÖ Dependency Injection
+‚úÖ DTO Pattern
+‚úÖ Domain-Driven Design
+‚úÖ Unit Testing
+
+## Ì±®‚ÄçÌ≤ª Autor
 
 **Renan Jordan** - [@reenanjoordan](https://github.com/reenanjoordan)
 
 ---
 
-**Status:** ‚úÖ Pronto para Produ√ß√£o | Testes Passando | Documenta√ß√£o Completa
+‚ú® **Status:** ‚úÖ Pronto para Produ√ß√£o | 7/7 Testes Passando | Documenta√ß√£o Completa
+
