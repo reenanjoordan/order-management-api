@@ -59,7 +59,7 @@ dotnet run
 
 ## 👨‍💻 Autor
 
-**Renan Jordan** - [@reenanjoordan](https://github.com/reenanjoordan)
+**Renan Jordão** - [@reenanjoordan](https://github.com/reenanjoordan)
 
 ---
 
