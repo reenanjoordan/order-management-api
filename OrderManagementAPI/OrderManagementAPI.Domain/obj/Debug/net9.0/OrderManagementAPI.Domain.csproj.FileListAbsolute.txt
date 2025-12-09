@@ -1,0 +1,12 @@
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Domain\bin\Debug\net9.0\OrderManagementAPI.Domain.deps.json
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Domain\bin\Debug\net9.0\OrderManagementAPI.Domain.dll
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Domain\bin\Debug\net9.0\OrderManagementAPI.Domain.pdb
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Domain\obj\Debug\net9.0\OrderManagementAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Domain\obj\Debug\net9.0\OrderManagementAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Domain\obj\Debug\net9.0\OrderManagementAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Domain\obj\Debug\net9.0\OrderManagementAPI.Domain.AssemblyInfo.cs
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Domain\obj\Debug\net9.0\OrderManagementAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Domain\obj\Debug\net9.0\OrderManagementAPI.Domain.dll
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Domain\obj\Debug\net9.0\refint\OrderManagementAPI.Domain.dll
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Domain\obj\Debug\net9.0\OrderManagementAPI.Domain.pdb
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Domain\obj\Debug\net9.0\ref\OrderManagementAPI.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\bin\Debug\net9.0\OrderManagementAPI.Infrastructure.deps.json
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\bin\Debug\net9.0\OrderManagementAPI.Infrastructure.dll
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\bin\Debug\net9.0\OrderManagementAPI.Infrastructure.pdb
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\bin\Debug\net9.0\OrderManagementAPI.Application.dll
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\bin\Debug\net9.0\OrderManagementAPI.Domain.dll
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\bin\Debug\net9.0\OrderManagementAPI.Domain.pdb
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\bin\Debug\net9.0\OrderManagementAPI.Application.pdb
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\obj\Debug\net9.0\OrderManagementAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\obj\Debug\net9.0\OrderManagementAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\obj\Debug\net9.0\OrderManagementAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\obj\Debug\net9.0\OrderManagementAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\obj\Debug\net9.0\OrderManagementAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\obj\Debug\net9.0\OrderMan.7B5F9115.Up2Date
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\obj\Debug\net9.0\OrderManagementAPI.Infrastructure.dll
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\obj\Debug\net9.0\refint\OrderManagementAPI.Infrastructure.dll
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\obj\Debug\net9.0\OrderManagementAPI.Infrastructure.pdb
+C:\Users\renan\OneDrive\Documents\TESTE-LOJA-API\order-management-api\OrderManagementAPI\OrderManagementAPI.Infrastructure\obj\Debug\net9.0\ref\OrderManagementAPI.Infrastructure.dll
